@@ -1,20 +1,6 @@
-# trabalho-interdisciplinar-aplicacoes-para-cenarios-reais
+-----
 
-<div align="center">
-    <table>
-        <tr>
-         <td align="center"></td>
-        </tr> 
-        <tr>
-            <td>
-                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center"></td>
-        </tr> 
-    </table>
-</div>
+<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
 
 -----
 
@@ -27,3 +13,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 https://github.com/ICEI-PUC-Minas-PMGES-TI
 <br>https://github.com/ICEI-PUC-Minas-PPLES-TI
+
+-----
+
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+</div>
+
+-----
