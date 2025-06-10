@@ -15,6 +15,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### Sumário:
 - [Templates](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/TEMPLATES)
+- [PROEX](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/PROEX)
 
 #### Links úteis:
 - [Repositório GitHub - ICEI PUC Minas PMGES TI](https://github.com/ICEI-PUC-Minas-PMGES-TI)
