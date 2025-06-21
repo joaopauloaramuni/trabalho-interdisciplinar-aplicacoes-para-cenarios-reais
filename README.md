@@ -45,6 +45,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PMG ES 2024-2 TI3 - C&C BH](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh)
 - [PMG ES 2024-2 TI3 - Corporate Rent A Car](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-corporaterentacar)
 
+##### Revista Sprinti do curso de Engenharia de Software:
+
+- https://sprinti.pucminas.br/
+
 -----
 
 <div align="center">
