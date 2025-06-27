@@ -63,12 +63,9 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 1. ✅ Citação formal e acadêmica dos projetos, favorecendo o reconhecimento dos alunos e professores como autores de uma produção intelectual.
 
 2. 🎓 Emissão automatizada de certificados de produção docente e discente, incluindo:
-
-  - Certificados de Destaque Acadêmico
-
-  - Certificados de autoria docente
-
-  - Certificados de participação dos alunos nos projetos
+   - Certificados de Destaque Acadêmico  
+   - Certificados de autoria docente  
+   - Certificados de participação dos alunos nos projetos
 
 3. 📰 Seleção de projetos para publicação na Revista SprinTI, com base nos dados descritos nesse arquivo.
 
