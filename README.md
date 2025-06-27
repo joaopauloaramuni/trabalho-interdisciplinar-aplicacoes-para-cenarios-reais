@@ -97,7 +97,7 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 - Não use siglas ou nomes genéricos no campo title.  
 - ❌ Não deixe o campo date-released em branco e use somente o formato AAAA-MM-DD.
 
-##### Exemplo de preenchimento do arquivo **citation.cff**:
+##### 📝 Exemplo de preenchimento do arquivo **citation.cff**:
 
 <details>
   <summary>Clique para exibir</summary>
