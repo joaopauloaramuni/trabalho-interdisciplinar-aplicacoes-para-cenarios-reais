@@ -56,8 +56,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
 
-O arquivo CITATION.cff é um arquivo de metadados em formato YAML criado para padronizar a forma como softwares e projetos científicos devem ser citados. Ele é reconhecido por plataformas como o GitHub, que exibe automaticamente um botão de "Citar este repositório" quando o arquivo está presente e corretamente preenchido.
-No contexto do nosso curso de Engenharia de Software na PUC Minas, o CITATION.cff tem papel estratégico, pois viabiliza e organiza várias ações institucionais, tais como:  
+O arquivo `CITATION.cff` é um arquivo de metadados em formato `YAML` criado para padronizar a forma como softwares e projetos científicos devem ser citados. Ele é reconhecido por plataformas como o GitHub, que exibe automaticamente um botão de "Citar este repositório" quando o arquivo está presente e corretamente preenchido.  
+
+No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.cff` tem papel estratégico, pois viabiliza e organiza várias ações institucionais, tais como:  
 
 1. ✅ Citação formal e acadêmica dos projetos, favorecendo o reconhecimento dos alunos e professores como autores de uma produção intelectual.
 
