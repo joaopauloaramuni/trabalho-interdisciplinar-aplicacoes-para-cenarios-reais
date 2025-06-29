@@ -22,12 +22,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Repositório GitHub - ICEI PUC Minas PMGES TI](https://github.com/ICEI-PUC-Minas-PMGES-TI)
 - [Repositório GitHub - ICEI PUC Minas PPLES TI](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
-##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
-- https://sprinti.pucminas.br/
-
 ##### Templates genéricos de TIs:
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-GenericTemplate
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-GenericTemplate
+
+##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
+- https://sprinti.pucminas.br/
 
 ##### Trabalhos - 1°Sem 2025:
 - [PMG ES 2025-1 TI3 - Fazenda Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fazenda-inteligente)
