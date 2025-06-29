@@ -23,7 +23,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Repositório GitHub - ICEI PUC Minas PPLES TI](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
 ##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
-
 - https://sprinti.pucminas.br/
 
 ##### Templates genéricos de TIs:
@@ -31,7 +30,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-GenericTemplate
 
 ##### Trabalhos - 1°Sem 2025:
-
 - [PMG ES 2025-1 TI3 - Fazenda Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fazenda-inteligente)
 - [PMG ES 2025-1 TI3 - Glayde Ribeiro - Cake Designer](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-glayde-ribeiro-cake-designer)
 - [PMG ES 2025-1 TI3 - Barber Flow](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-barber-flow)
@@ -48,7 +46,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PMG ES 2025-1 TI3 - Villa Pisani](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-villa-pisani)
 
 ##### Trabalhos - 2°Sem 2024:
-
 - [PMG ES 2024-2 TI3 - Amitran](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-amitran)
 - [PMG ES 2024-2 TI3 - Beautyzz](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-beautyzz)
 - [PMG ES 2024-2 TI3 - C&C BH](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh)
