@@ -29,6 +29,17 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
 - https://sprinti.pucminas.br/
 
+<table>
+<tr>
+   <td align="center">Revista SprinTi - PUC Minas:</td>
+</tr>
+<tr>
+   <td align="center">
+      <a href="https://sprinti.pucminas.br/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/sprinti.jpeg?raw=true"/></a>
+   </td>
+</tr>
+</table>
+
 ##### Trabalhos - 1°Sem 2025:
 - [PMG ES 2025-1 TI3 - Fazenda Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fazenda-inteligente)
 - [PMG ES 2025-1 TI3 - Glayde Ribeiro - Cake Designer](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-glayde-ribeiro-cake-designer)
