@@ -15,6 +15,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 -----
 
 ### Sumário:
+- [Cronograma](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/CRONOGRAMA)
 - [Templates](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/TEMPLATES)
 - [PROEX](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/PROEX)
 
