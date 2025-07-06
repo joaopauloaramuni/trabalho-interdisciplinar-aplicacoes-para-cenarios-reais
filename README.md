@@ -89,6 +89,49 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
+### ⭐ Como conquistar o título de **Trabalho Destaque de TI3** (Trabalho Interdisciplinar: Aplicações para Cenários Reais)
+
+Para que seu grupo conquiste o título de **Trabalho Destaque**, é essencial trabalhar com **entrosamento 🤝**, garantindo que **todos participem ativamente** de todas as etapas do projeto — desde o **levantamento de requisitos 📋**, passando pelo **desenvolvimento 💻**, **testes 🧪** e **documentação 📑**.
+
+O projeto deve apresentar um **caráter inovador 💡**, indo além de funcionalidades básicas como **CRUDs**, e focando em **soluções reais e eficazes para o problema do cliente final 🎯**.
+
+➡️ É muito importante envolver o **cliente** ao longo do desenvolvimento e garantir que o sistema seja **testado por ele**, com **feedback preferencialmente em vídeo 🎥**.
+
+Além disso, observem os seguintes critérios técnicos:
+
+- ☁️ O sistema deve estar **hospedado na nuvem**, garantindo que ele esteja **acessível publicamente via URL** e disponível para testes pelo cliente e pela banca avaliadora. Para isso, recomenda-se:
+  - Utilizar plataformas como **Render, Vercel, Netlify, Railway, Fly.io**, ou **outros serviços equivalentes**
+  - Garantir que o link esteja funcionando corretamente no momento da apresentação
+  - Verificar se o sistema está acessível sem necessidade de instalação local
+  - Preferencialmente, manter o sistema atualizado e online até o final do semestre
+
+- 🎨 O **front-end** precisa ser **moderno**, com **boa usabilidade** e **apresentação caprichada**. Isso inclui:
+  - Uso adequado de **cores, fontes e espaçamentos**
+  - **Responsividade** (funcionar bem em celulares, tablets e desktops)
+  - Navegação intuitiva e acessível para o usuário final
+  - Preferencialmente utilizando frameworks como **React, Vue, Angular** ou bibliotecas de UI modernas como **Tailwind, Material UI ou Bootstrap**
+
+- 🧱 A **arquitetura** e **organização do sistema** devem considerar **escalabilidade** e boas práticas de desenvolvimento, como:
+  - Separação clara entre **front-end e back-end**
+  - Uso de **serviços externos** ou **APIs** quando apropriado
+  - Estrutura de pastas e código bem organizada
+  - Uso de **controle de versão (Git/GitHub)** e **commits frequentes e bem descritos**
+  - Padrões de código limpos, com foco em **manutenibilidade e reusabilidade**
+
+- 🧪 A **apresentação final** deve incluir:
+  - O **feedback do cliente**, preferencialmente em **vídeo ou depoimento escrito**, mostrando a percepção dele sobre o sistema entregue
+  - A **demonstração completa do sistema em funcionamento**, evidenciando:
+    - As principais funcionalidades implementadas
+    - A interface em uso
+    - Como o sistema resolve o problema proposto
+    - Comparação entre a situação **antes** e **depois** da solução aplicada
+
+📹 O **vídeo de entrega** e a **apresentação final** são essenciais para destacar seu projeto. Caprichem na **edição**, mostrando de forma clara como era o cenário **antes da implantação do sistema 🕰️** e **como ficou depois 🚀**.
+
+Mostrem que seu sistema **faz a diferença**. Boa sorte, e mãos à obra! 💪
+
+-----
+
 ### 🔖 Arquivo CITATION.cff:
 
 #### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
