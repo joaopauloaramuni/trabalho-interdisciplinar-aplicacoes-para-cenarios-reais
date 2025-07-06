@@ -126,6 +126,8 @@ Além disso, observem os seguintes critérios técnicos:
     - Como o sistema resolve o problema proposto
     - Comparação entre a situação **antes** e **depois** da solução aplicada
 
+- 🙋‍♂️ **Convide o cliente para a apresentação final**, para que ele possa **acompanhar a entrega do sistema**, **validar o que foi feito** e, se possível, **comentar ao vivo sobre a solução desenvolvida**. A presença dele enriquece a apresentação e demonstra o vínculo real do projeto com o problema enfrentado.
+
 📹 O **vídeo de entrega** e a **apresentação final** são essenciais para destacar seu projeto. Caprichem na **edição**, mostrando de forma clara como era o cenário **antes da implantação do sistema 🕰️** e **como ficou depois 🚀**.
 
 Mostrem que seu sistema **faz a diferença**. Boa sorte, e mãos à obra! 💪
