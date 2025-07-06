@@ -63,7 +63,6 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-1 TI3 - Fazenda Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fazenda-inteligente)
 - [PMG ES 2025-1 TI3 - Glayde Ribeiro - Cake Designer](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-glayde-ribeiro-cake-designer)
 - [PMG ES 2025-1 TI3 - Barber Flow](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-barber-flow)
-- [PMG ES 2025-1 TI3 - Fabiana Móveis](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fabiana-moveis)
 - [PMG ES 2025-1 TI3 - Get Route](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-getroute)
 - [PMG ES 2025-1 TI3 - Optima](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-optima)
 - [PMG ES 2025-1 TI3 - Olimpo Estética Automotiva](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-olimpo-estetica-automotiva)
@@ -74,13 +73,17 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-1 TI3 - Santo Restauro](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-santo-restauro)
 - [PMG ES 2025-1 TI3 - AutoClick](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-autoclick)
 - [PMG ES 2025-1 TI3 - Villa Pisani](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-villa-pisani)
+- [PMG ES 2025-1 TI3 - Fabiana Móveis](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fabiana-moveis)
+   - 🏆 Eleito trabalho destaque de TI3 - 1/2025
+   - 📺 [Vídeo no Youtube]()
+   - 🎥 [Vídeo](https://github.com/user-attachments/assets/b3e8c709-85f0-447a-a47e-aea36c84bbe6)
 
 #### 📅 2°Sem 2024:
 - [PMG ES 2024-2 TI3 - Amitran](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-amitran)
 - [PMG ES 2024-2 TI3 - Beautyzz](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-beautyzz)
 - [PMG ES 2024-2 TI3 - C&C BH](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh)
 - [PMG ES 2024-2 TI3 - Corporate Rent A Car](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-corporaterentacar)
-   - 🏆 Eleito trabalho destaque de TI3
+   - 🏆 Eleito trabalho destaque de TI3 - 2/2024
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=TvBmcMyQetM)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/d9b0d866-d5d8-4923-8dc9-45d0e07b7127)
 
