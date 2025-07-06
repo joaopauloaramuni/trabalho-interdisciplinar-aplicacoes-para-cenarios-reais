@@ -80,6 +80,9 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2024-2 TI3 - Beautyzz](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-beautyzz)
 - [PMG ES 2024-2 TI3 - C&C BH](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh)
 - [PMG ES 2024-2 TI3 - Corporate Rent A Car](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-corporaterentacar)
+   - 🏆 Eleito trabalho destaque de TI3
+   - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=TvBmcMyQetM)
+   - 🎥 [Vídeo](https://github.com/user-attachments/assets/d9b0d866-d5d8-4923-8dc9-45d0e07b7127)
 
 -----
 
