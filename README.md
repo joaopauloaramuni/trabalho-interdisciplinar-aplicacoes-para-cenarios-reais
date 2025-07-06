@@ -80,7 +80,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-1 TI3 - Villa Pisani](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-villa-pisani)
 - [PMG ES 2025-1 TI3 - Fabiana Móveis](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fabiana-moveis)
    - 🏆 Eleito trabalho destaque de TI3 - 1-2025
-   - 📺 [Vídeo no Youtube]()
+   - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=laC2yAJZpSE)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/b3e8c709-85f0-447a-a47e-aea36c84bbe6)
 
 #### 📅 2°Sem 2024:
