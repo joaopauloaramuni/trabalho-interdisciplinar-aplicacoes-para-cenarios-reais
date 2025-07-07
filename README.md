@@ -82,6 +82,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-1 TI3 - Villa Pisani](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-villa-pisani)
 - [PMG ES 2025-1 TI3 - Fabiana Móveis](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fabiana-moveis)
    - 🏆 Eleito trabalho destaque de TI3 - 1-2025
+   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/CERTIFICADOS/) de reconhecimento de trabalho destaque 
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=4R1hQCg9AQ8)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/b3e8c709-85f0-447a-a47e-aea36c84bbe6)
 
