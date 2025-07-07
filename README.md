@@ -93,6 +93,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 🏆 Eleito trabalho destaque de TI3 - 2-2024
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=TvBmcMyQetM)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/d9b0d866-d5d8-4923-8dc9-45d0e07b7127)
+   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/CERTIFICADOS/2024-2-ti3-9577100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
 
 -----
 
