@@ -166,7 +166,6 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-2 TI3 - XXXX]()
 - [PMG ES 2025-2 TI3 - XXXX]()
 - [PMG ES 2025-2 TI3 - XXXX]()
-- [PMG ES 2025-2 TI3 - XXXX]()
 
 #### 📅 1°Sem 2025:
 - [PMG ES 2025-1 TI3 - Fazenda Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fazenda-inteligente)
