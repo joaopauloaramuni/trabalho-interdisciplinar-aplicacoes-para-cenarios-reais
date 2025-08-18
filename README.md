@@ -167,7 +167,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-2 TI3 - Thivor Automóveis](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-thivorautomoveis)
 - [PMG ES 2025-2 TI3 - Na Régua - Barbearia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-nareguabarbearia)
 - [PMG ES 2025-2 TI3 - Vaz Tech](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-vaztech)
-- [PMG ES 2025-2 TI3 - XXXX]()
+- [PMG ES 2025-2 TI3 - ClassHub](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-classhub)
 - [PMG ES 2025-2 TI3 - XXXX]()
 - [PMG ES 2025-2 TI3 - XXXX]()
 
