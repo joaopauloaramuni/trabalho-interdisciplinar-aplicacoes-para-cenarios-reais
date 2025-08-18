@@ -156,12 +156,16 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
+### GitHub Classroom - Assignment:
+
+- [https://classroom.github.com/a/a7FbvBfE](https://classroom.github.com/a/a7FbvBfE)
+
 ### 🗓️ Trabalhos de TI3:
 
 #### 📅 2°Sem 2025:
-- [PMG ES 2025-2 TI3 - XXXX]()
-- [PMG ES 2025-2 TI3 - XXXX]()
-- [PMG ES 2025-2 TI3 - XXXX]()
+- [PMG ES 2025-2 TI3 - Casa dos Discípulos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-casadosdiscipulos)
+- [PMG ES 2025-2 TI3 - Thivor Automóveis](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-thivorautomoveis)
+- [PMG ES 2025-2 TI3 - Na Régua - Barbearia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-nareguabarbearia)
 - [PMG ES 2025-2 TI3 - XXXX]()
 - [PMG ES 2025-2 TI3 - XXXX]()
 - [PMG ES 2025-2 TI3 - XXXX]()
