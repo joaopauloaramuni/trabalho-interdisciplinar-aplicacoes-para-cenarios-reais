@@ -156,7 +156,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
-### GitHub Classroom - Assignment:
+### :octocat: GitHub Classroom - Assignment - 2025-2:
 
 - [https://classroom.github.com/a/a7FbvBfE](https://classroom.github.com/a/a7FbvBfE)
 
