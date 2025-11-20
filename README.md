@@ -268,6 +268,8 @@ Mostrem que seu sistema **faz a diferença**. Boa sorte, e mãos à obra! 💪
 
 ### 📄 README de projeto:
 
+Esta seção reúne um **template** construído por mim e **exemplos** reais de READMEs para ajudar você a estruturar, documentar e apresentar seus projetos de forma clara, organizada e profissional.
+
 #### 📕 Template de README de projeto:
 
 - :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
