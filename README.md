@@ -237,7 +237,7 @@ Além disso, observem os seguintes critérios técnicos:
   - Uso de **controle de versão (Git/GitHub)** e **commits frequentes e bem descritos**
   - Padrões de código limpos, com foco em **manutenibilidade e reusabilidade**
 
- 📑 **README.md bem estruturado e completo**, incluindo:
+- 📑 **README.md bem estruturado e completo**, incluindo:
   - Boas práticas de formatação e clareza
   - Logo do sistema
   - Descrição do projeto e motivação
