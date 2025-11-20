@@ -338,6 +338,24 @@ date-released: 2025-06-19
 
 -----
 
+### 📄 README de projeto:
+
+#### 📕 Template de README de projeto:
+
+- :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
+
+#### 📘 Exemplos de README de projeto:
+
+- 🌐 [Tuscan](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
+  - :octocat: [GitHub Bernardo Rohlfs](https://github.com/Berohlfs)
+  - :octocat: [GitHub Eric Jardim](https://github.com/ericgcjardim)
+- 🌐 [Tech Fotebol Clube](https://github.com/ligiabicalho/Tech-Futebol-Clube)
+  - :octocat: [GitHub Lígia Bicalho](https://github.com/ligiabicalho)  
+- 🌐 [FeeduP-Mobile](https://github.com/FeedUp-Hub/FeeduP-Mobile)
+  - :octocat: [GitHub Fernando Santiago](https://github.com/fsaantiago)
+
+-----
+
 <div align="center">
   <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
 </div>
