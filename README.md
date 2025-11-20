@@ -237,6 +237,19 @@ Além disso, observem os seguintes critérios técnicos:
   - Uso de **controle de versão (Git/GitHub)** e **commits frequentes e bem descritos**
   - Padrões de código limpos, com foco em **manutenibilidade e reusabilidade**
 
+ 📑 **README.md bem estruturado e completo**, incluindo:
+  - Boas práticas de formatação e clareza
+  - Logo do sistema
+  - Descrição do projeto e motivação
+  - Arquitetura do sistema
+  - Estrutura de pastas
+  - Instalação e execução
+  - Tecnologias utilizadas
+  - Demonstrações (prints, GIFs, vídeos)
+  - Testes e cobertura
+  - Links úteis e documentação
+  - Licença
+
 - 🧪 A **apresentação final** deve incluir:
   - O **feedback do cliente**, preferencialmente em **vídeo ou depoimento escrito**, mostrando a percepção dele sobre o sistema entregue
   - A **demonstração completa do sistema em funcionamento**, evidenciando:
@@ -250,6 +263,24 @@ Além disso, observem os seguintes critérios técnicos:
 📹 O **vídeo de entrega** e a **apresentação final** são essenciais para destacar seu projeto. Caprichem na **edição**, mostrando de forma clara como era o cenário **antes da implantação do sistema 🕰️** e **como ficou depois 🚀**.
 
 Mostrem que seu sistema **faz a diferença**. Boa sorte, e mãos à obra! 💪
+
+-----
+
+### 📄 README de projeto:
+
+#### 📕 Template de README de projeto:
+
+- :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
+
+#### 📘 Exemplos de README de projeto:
+
+- 🌐 [Tuscan](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
+  - :octocat: [GitHub Bernardo Rohlfs](https://github.com/Berohlfs)
+  - :octocat: [GitHub Eric Jardim](https://github.com/ericgcjardim)
+- 🌐 [Tech Fotebol Clube](https://github.com/ligiabicalho/Tech-Futebol-Clube)
+  - :octocat: [GitHub Lígia Bicalho](https://github.com/ligiabicalho)  
+- 🌐 [FeeduP-Mobile](https://github.com/FeedUp-Hub/FeeduP-Mobile)
+  - :octocat: [GitHub Fernando Santiago](https://github.com/fsaantiago)
 
 -----
 
@@ -335,24 +366,6 @@ version: 1.0.0
 date-released: 2025-06-19
 ```
 </details>
-
------
-
-### 📄 README de projeto:
-
-#### 📕 Template de README de projeto:
-
-- :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
-
-#### 📘 Exemplos de README de projeto:
-
-- 🌐 [Tuscan](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
-  - :octocat: [GitHub Bernardo Rohlfs](https://github.com/Berohlfs)
-  - :octocat: [GitHub Eric Jardim](https://github.com/ericgcjardim)
-- 🌐 [Tech Fotebol Clube](https://github.com/ligiabicalho/Tech-Futebol-Clube)
-  - :octocat: [GitHub Lígia Bicalho](https://github.com/ligiabicalho)  
-- 🌐 [FeeduP-Mobile](https://github.com/FeedUp-Hub/FeeduP-Mobile)
-  - :octocat: [GitHub Fernando Santiago](https://github.com/fsaantiago)
 
 -----
 
