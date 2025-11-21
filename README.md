@@ -127,25 +127,25 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 
 -----
 
-##### :octocat: Organização no GitHub:
+##### Organização no GitHub
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
 
 - [Organização no GitHub - ICEI PUC Minas PMGES TI - Campus Coração Eucarístico](https://github.com/ICEI-PUC-Minas-PMGES-TI)
 - [Organização no GitHub - ICEI PUC Minas PPLES TI - Campus Lourdes](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
-##### Templates genéricos de TIs:
+##### Templates genéricos de TIs
 Template de repositório contendo a estrutura geral a ser usada nos trabalhos interdisciplinares (TI) do curso de Engenharia de Software da PUC Minas.
 
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-GenericTemplate
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-GenericTemplate
 
-##### Mapa de Trabalhos Interdisciplinares (TI) do curso de Engenharia de Software:
+##### Mapa de Trabalhos Interdisciplinares (TI) do curso de Engenharia de Software
 
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-NDE-Master
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-NDE-Master
 
-##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
+##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas
 - https://sprinti.pucminas.br/
 
 <table>
@@ -161,13 +161,13 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
-### :octocat: GitHub Classroom - Assignment - 2025-2:
+#### :octocat: GitHub Classroom - Assignment - 2025-2:
 
 - [https://classroom.github.com/a/a7FbvBfE](https://classroom.github.com/a/a7FbvBfE)
 
-### 🗓️ Trabalhos de TI3:
+#### 🗓️ Trabalhos de TI3:
 
-#### 📅 2°Sem 2025:
+##### 📅 2°Sem 2025:
 - [PMG ES 2025-2 TI3 - Casa dos Discípulos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-casadosdiscipulos)
 - [PMG ES 2025-2 TI3 - Thivor Automóveis](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-thivorautomoveis)
 - [PMG ES 2025-2 TI3 - Organiza Gestão Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-organizagestaointeligente)
@@ -176,7 +176,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-2 TI3 - REALConsult](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-realconsult)
 - [PMG ES 2025-2 TI3 - Ponto Certo Mercearia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-pontocerto)
 
-#### 📅 1°Sem 2025:
+##### 📅 1°Sem 2025:
 - [PMG ES 2025-1 TI3 - Fazenda Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fazenda-inteligente)
 - [PMG ES 2025-1 TI3 - Glayde Ribeiro - Cake Designer](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-glayde-ribeiro-cake-designer)
 - [PMG ES 2025-1 TI3 - Barber Flow](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-barber-flow)
@@ -196,7 +196,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=4R1hQCg9AQ8)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/b3e8c709-85f0-447a-a47e-aea36c84bbe6)
 
-#### 📅 2°Sem 2024:
+##### 📅 2°Sem 2024:
 - [PMG ES 2024-2 TI3 - Amitran](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-amitran)
 - [PMG ES 2024-2 TI3 - Beautyzz](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-beautyzz)
 - [PMG ES 2024-2 TI3 - C&C BH](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh)
@@ -208,7 +208,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
-### ⭐ Como conquistar o título de **Trabalho Destaque de TI3** (Trabalho Interdisciplinar: Aplicações para Cenários Reais)
+#### ⭐ Como conquistar o título de **Trabalho Destaque de TI3** (Trabalho Interdisciplinar: Aplicações para Cenários Reais)
 
 Para que seu grupo conquiste o título de **Trabalho Destaque**, é essencial trabalhar com **entrosamento 🤝**, garantindo que **todos participem ativamente** de todas as etapas do projeto — desde o **levantamento de requisitos 📋**, passando pelo **desenvolvimento 💻**, **testes 🧪** e **documentação 📑**.
 
@@ -266,15 +266,15 @@ Mostrem que seu sistema **faz a diferença**. Boa sorte, e mãos à obra! 💪
 
 -----
 
-### 📄 README de projeto:
+#### 📄 README de projeto:
 
 Esta seção reúne um **template** construído por mim e **exemplos** reais de READMEs para ajudar você a estruturar, documentar e apresentar seus projetos de forma clara, organizada e profissional.
 
-#### 📕 Template de README de projeto:
+##### 📕 Template de README de projeto:
 
 - :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
 
-#### 📘 Exemplos de README de projeto:
+##### 📘 Exemplos de README de projeto:
 
 - 🌐 [Tuscan](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
   - :octocat: [GitHub Bernardo Rohlfs](https://github.com/Berohlfs)
@@ -286,9 +286,9 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 
 -----
 
-### 🔖 Arquivo CITATION.cff:
+#### 🔖 Arquivo CITATION.cff:
 
-#### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
+##### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
 
 O arquivo `CITATION.cff` é um arquivo de metadados em formato `YAML` criado para padronizar a forma como softwares e projetos científicos devem ser citados. Ele é reconhecido por plataformas como o GitHub, que exibe automaticamente um botão de "Citar este repositório" quando o arquivo está presente e corretamente preenchido.  
 
@@ -307,7 +307,7 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 
 5. 🔍 Indexação e rastreabilidade institucional dos projetos para fins de avaliação, relatórios e participação em editais e eventos.
 
-#### ✅ Como preencher corretamente os campos
+##### ✅ Como preencher corretamente os campos
 
 | Campo            | Explicação resumida                                                                                                                                                        |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -321,14 +321,14 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 | `version`        | Versão do software — use 1.0.0 se for a entrega final.                                                                                                                     |
 | `date-released`  | Data de liberação da versão. Deve ser preenchida com a data de término do semestre acadêmico. Use o formato AAAA-MM-DD.                                                    |
 
-##### ⚠️ Importante:
+###### 📍 Aviso importante:
 
 - Preencha os nomes e sobrenomes completo dos autores sem abreviações  
 - Atualize os nomes dos autores caso tenha saído alguém do grupo de trabalho Interdisciplinar  
 - Não use siglas ou nomes genéricos no campo title.  
 - ❌ Não deixe o campo date-released em branco e use somente o formato AAAA-MM-DD.
 
-##### 📝 Exemplo de preenchimento do arquivo **CITATION.cff**:
+###### 📝 Exemplo de preenchimento do arquivo **CITATION.cff**:
 
 <details>
   <summary>Clique para exibir</summary>
