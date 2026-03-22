@@ -176,8 +176,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-2 TI3 - Ponto Certo Mercearia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-pontocerto)
 - [PMG ES 2025-2 TI3 - REALConsult](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-realconsult)
    - 🏆 Eleito trabalho destaque de TI3 - 2-2025
-   - 🏅 [Certificado]() de reconhecimento de trabalho destaque 
-   - 📺 [Vídeo no Youtube]()
+   - 🏅 [Certificado](https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-NDE-Master/tree/main/Certificados) de reconhecimento de trabalho destaque 
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/959cc525-c578-4314-ada5-e2d85cb956f5)
    - 🎥 [Depoimento do Cliente](https://github.com/user-attachments/assets/22ad9b52-7d57-4462-b60e-02655568dc59)
    - 🎤 [Apresentação/Slides](https://github.com/user-attachments/files/26162565/Apresentacao-RealConsult.pdf)
