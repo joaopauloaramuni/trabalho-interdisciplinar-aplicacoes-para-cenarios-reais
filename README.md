@@ -179,6 +179,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 🏅 [Certificado]() de reconhecimento de trabalho destaque 
    - 📺 [Vídeo no Youtube]()
    - 🎥 [Vídeo]()
+   - 🎥 [Depoimento do Cliente](https://github.com/user-attachments/assets/22ad9b52-7d57-4462-b60e-02655568dc59)
    - 🎤 [Apresentação/Slides]()
 
 ##### 📅 1°Sem 2025:
