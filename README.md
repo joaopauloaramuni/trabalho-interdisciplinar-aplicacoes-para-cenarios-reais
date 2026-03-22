@@ -201,7 +201,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/CERTIFICADOS/2025-1/2025-1-ti3-9577100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=4R1hQCg9AQ8)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/b3e8c709-85f0-447a-a47e-aea36c84bbe6)
-   - 🎤 [Apresentação/Slides](https://github.com/user-attachments/files/26162507/Apresentacao-Fabiana.Moveis.pdf)
+   - 🎤 [Apresentação/Slides](https://github.com/user-attachments/files/26162541/Apresentacao-FabianaMoveis.pdf)
 
 ##### 📅 2°Sem 2024:
 - [PMG ES 2024-2 TI3 - Amitran](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-amitran)
