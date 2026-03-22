@@ -173,8 +173,13 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2025-2 TI3 - Organiza Gestão Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-organizagestaointeligente)
 - [PMG ES 2025-2 TI3 - VazTech](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-vaztech)
 - [PMG ES 2025-2 TI3 - ClassHub](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-classhub)
-- [PMG ES 2025-2 TI3 - REALConsult](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-realconsult)
 - [PMG ES 2025-2 TI3 - Ponto Certo Mercearia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-pontocerto)
+- [PMG ES 2025-2 TI3 - REALConsult](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-realconsult)
+   - 🏆 Eleito trabalho destaque de TI3 - 2-2025
+   - 🏅 [Certificado]() de reconhecimento de trabalho destaque 
+   - 📺 [Vídeo no Youtube]()
+   - 🎥 [Vídeo]()
+   - 🎤 [Apresentação/Slides]()
 
 ##### 📅 1°Sem 2025:
 - [PMG ES 2025-1 TI3 - Fazenda Inteligente](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-fazenda-inteligente)
@@ -195,6 +200,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/CERTIFICADOS/2025-1/2025-1-ti3-9577100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=4R1hQCg9AQ8)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/b3e8c709-85f0-447a-a47e-aea36c84bbe6)
+   - 🎤 [Apresentação/Slides](https://github.com/user-attachments/files/26162507/Apresentacao-Fabiana.Moveis.pdf)
 
 ##### 📅 2°Sem 2024:
 - [PMG ES 2024-2 TI3 - Amitran](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-amitran)
@@ -205,6 +211,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/CERTIFICADOS/2024-2/2024-2-ti3-9577100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=TvBmcMyQetM)
    - 🎥 [Vídeo](https://github.com/user-attachments/assets/d9b0d866-d5d8-4923-8dc9-45d0e07b7127)
+   - 🎤 [Apresentação/Slides](https://github.com/user-attachments/files/26162505/Apresentacao-SCOL.pdf)
 
 -----
 
