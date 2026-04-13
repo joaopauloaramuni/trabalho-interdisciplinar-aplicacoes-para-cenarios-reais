@@ -293,6 +293,18 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 
 -----
 
+#### 🎨 Design System:
+
+O **Design System** é um conjunto de padrões, regras e componentes reutilizáveis que definem a identidade visual e o comportamento da interface de um sistema. Ele garante consistência entre telas, facilita o desenvolvimento e melhora a experiência do usuário ao padronizar cores, tipografia, botões, inputs e demais elementos visuais.
+
+🧑‍🤝‍🧑 Exemplo de Design System:
+
+- 🎨 [Design System do projeto CarFlow no Vercel](https://lab-carflow.vercel.app/design)
+- 📄 [Design System do projeto CarFlow em PDF](https://github.com/user-attachments/files/26679490/design-system.pdf)
+- :octocat: Design System criado pela aluna Laura Pontara - [GitHub](https://github.com/LauraPontara)
+
+-----
+
 #### 🔖 Arquivo CITATION.cff:
 
 ##### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
