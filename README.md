@@ -204,9 +204,11 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 ##### 📅 2°Sem 2024:
 - [PMG ES 2024-2 TI3 - Amitran](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-amitran)
+  - 📝 [Registro](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/REGISTROS/certificado_5120250020641750100215972.pdf) de Software
 - [PMG ES 2024-2 TI3 - Beautyzz](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-beautyzz)
 - [PMG ES 2024-2 TI3 - C&C BH](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh)
 - [PMG ES 2024-2 TI3 - Corporate Rent A Car](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-corporaterentacar)
+   - 📝 [Registro](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/REGISTROS/certificado_5120250027651751553672097.pdf) de Software 
    - 🏆 Eleito trabalho destaque de TI3 - 2-2024
    - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/CERTIFICADOS/2024-2/2024-2-ti3-9577100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=TvBmcMyQetM)
