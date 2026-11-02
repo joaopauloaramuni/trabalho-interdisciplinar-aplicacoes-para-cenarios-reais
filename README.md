@@ -16,6 +16,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+<img src="https://joaopauloaramuni.github.io/image/ti3-es-aplicacoes-cenarios-reais.png" alt="banner"/>
+
+-----
+
 ### Sumário:
 - [Apresentação da disciplina](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/PDF)
 - [Cronograma](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/CRONOGRAMA)
